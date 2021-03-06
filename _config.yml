@@ -14,7 +14,7 @@ author: zoe
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "命运他无法让我跪地求饶"
+  About Me: "/aboutme.md"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://img01.sogoucdn.com/app/a/100520146/62f4f7dfd60479753799db154970d829"
+avatar: "https://img04.sogoucdn.com/app/a/100520146/02cffdeb7536e7da9f44229377b4c497"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
