@@ -14,7 +14,7 @@ author: zoe
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "/aboutme.md"
+  About Me: "https://github.com/Luo-zoe/luo.github.io/aboutme.md"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -220,7 +220,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
+  - bj.jpg
   - docs/
 
 plugins:
