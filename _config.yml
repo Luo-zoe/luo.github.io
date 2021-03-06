@@ -110,9 +110,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-page-img: "https://img03.sogoucdn.com/app/a/100520146/50f1f785c9a5950aeafb88b52b87c24d"
+navbar-img: "/assets/img/540DB3CB-D667-44F6-A0A7-4CA3A14543E4.jpeg"
+footer-img: "/assets/img/35A7BEA1-67CC-4004-811C-9EC95C9EA2F2.jpeg"
+page-img: "/assets/img/D020C95E-13EE-4785-BAD3-AE5CB501D441.jpeg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
