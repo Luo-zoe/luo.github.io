@@ -90,7 +90,7 @@ feed_show_excerpt: false
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Homewor,Work,Study,Other,Tool"
 paginate: 5
 
 # --- Colours / background image --- #
@@ -140,10 +140,10 @@ site-js:
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
+matomo:
+  site_id: "9"
+  uri: "demo.wiki.pro"
+  opt-out: true
 
 # --- Comments --- #
 
